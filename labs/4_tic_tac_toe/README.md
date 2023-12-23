@@ -4,9 +4,13 @@ For this lab I implemented a Q-Learning agent by following [this](https://huggin
 
 For the state representation I used the representation from the lecture, where a state is represented by the two sets (X plays and O plays) and the goal is to achieve a sum of 15 using the [magic square](https://en.wikipedia.org/wiki/Magic_square).
 
-My reward function awards -100 points each time the agent tries to play an ilegal move, -10 for each loss, 5 for each time it blocks an opponent's win and 10 for each win.
+My reward function is calculated as follows:
 
-## To-Do
-
-- [ ] Move code to classes;
-- [ ] Compare Q-Learning with Montecarlo from the lecture implementation;
+| Action                                 | Reward |
+| -------------------------------------- | ------ |
+| Invalid move                           | -10    |
+| Could have blocked opponent but didn't | -5     |
+| Blocked opponent                       | 5      |
+| Won                                    | 10     |
+| Lost                                   | -10    |
+| Otherwise                              | 0      |
