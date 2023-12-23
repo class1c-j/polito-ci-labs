@@ -8,7 +8,6 @@ My reward function is calculated as follows:
 
 | Action                                 | Reward |
 | -------------------------------------- | ------ |
-| Invalid move                           | -10    |
 | Could have blocked opponent but didn't | -5     |
 | Blocked opponent                       | 5      |
 | Won                                    | 10     |
