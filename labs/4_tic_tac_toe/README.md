@@ -9,5 +9,4 @@ My reward function awards -100 points each time the agent tries to play an ilega
 ## To-Do
 
 - [ ] Move code to classes;
-- [ ] Add epsilon-greedy when choosing the action;
 - [ ] Compare Q-Learning with Montecarlo from the lecture implementation;
