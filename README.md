@@ -4,7 +4,7 @@ Assignments done for the course of Computational Intelligence @ PoliTO in 2023/2
 
 ## Peer review status
 
-- If anyone still wants to do any review, right now I have
+- If anyone still wants to do any review, right now I have received
 
 | Lab                           | Reviews |
 | ----------------------------- | ------- |
