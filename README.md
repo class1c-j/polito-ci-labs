@@ -1,4 +1,13 @@
 # polito-ci-labs
+
 Assignments done for the course of Computational Intelligence @ PoliTO in 2023/2024
 
-Guys I still don't have any review for lab9, so if you are reading this please drop your review! Thanks :)
+## Peer review status
+
+- If anyone still wants to do any review, right now I have
+
+| Lab                           | Reviews |
+| ----------------------------- | ------- |
+| [Nim](labs/2_evolutionary/)   | 4/2     |
+| [Black-Box](labs/3_black_box) | 0/2     |
+| [RL](labs/4_tic_tac_toe/)     | 0/2     |
