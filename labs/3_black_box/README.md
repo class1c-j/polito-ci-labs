@@ -24,3 +24,5 @@ Here I present the results I got in my test run. You may see different results o
 - For **problem instance 2** i got fitness 0.722, 2510219 fitness calls;
 - For **problem instance 5** i got fitness 0.406, 5178027 fitness calls;
 - For **problem instance 10** i got fitness 0.2956, 5808903 fitness calls;
+
+- This code was updated after the deadline because I found a small typo. The in-time commit is [b96bac0db55ae0592bc3b18ed6e7924225a7dba7](https://github.com/class1c-j/polito-ci-labs/tree/b96bac0db55ae0592bc3b18ed6e7924225a7dba7/labs/3_min_calls)
