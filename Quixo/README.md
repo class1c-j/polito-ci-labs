@@ -4,7 +4,7 @@
 > This work was made with:
 > - [Ivan](https://github.com/ivanmag22/)
 > - [Francesca](https://github.com/Zafonte)
-> - [Rita](https://github.com/class1c-j)
+> - [Matteo](https://github.com/Matteo-Pietro-Pillitteri)
 
 ## Brief introduction
 
